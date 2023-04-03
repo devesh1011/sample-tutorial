@@ -1,0 +1,73 @@
+git init: initializes a new Git repository in the current directory or a specified directory.
+
+git clone: creates a copy of a remote repository on your local machine.
+
+git add: adds one or more files to the staging area, preparing them for a commit.
+
+git commit: creates a new commit with the changes in the staging area and a commit message.
+
+git status: shows the current status of the repository, including which files have been modified, added, or deleted.
+
+git log: displays the commit history of the repository.
+
+git branch: creates a new branch or lists all existing branches.
+
+git checkout: switches to a different branch or checks out a specific commit.
+
+git merge: combines two or more branches together.
+
+git pull: fetches and merges changes from a remote repository.
+
+git push: uploads local changes to a remote repository.
+
+git remote: manages the remote repositories that your local repository tracks.
+
+git fetch: downloads changes from a remote repository without merging them.
+
+git stash: saves changes that are not ready to be committed yet.
+
+git reset: removes changes from the staging area.
+
+git revert: creates a new commit that undoes a previous commit.
+
+git tag: creates a new tag or lists all existing tags.
+
+git blame: shows who last modified each line of a file.
+
+git cherry-pick: applies the changes from a specific commit to the current branch.
+
+git diff: shows the differences between two commits or two branches.
+
+git grep: searches for a string in the files in your repository.
+
+git rm: removes a file from the repository.
+
+git mv: renames a file in the repository.
+
+git bisect: helps you find the commit that introduced a bug.
+
+git clean: removes untracked files from the repository.
+
+git config: sets configuration options for Git.
+
+git describe: shows the most recent tag that is reachable from a specific commit.
+
+git init-db: initializes a new Git repository.
+
+git instaweb: launches a web server to view your repository.
+
+git pull-request: creates a pull request on GitHub.
+
+git push: uploads local changes to a remote repository.
+
+git rebase: rewrites the commit history of a branch.
+
+git reflog: shows a log of all Git commands that have been run.
+
+git remote: manages the remote repositories that your local repository tracks.
+
+git submodule: manages submodules within a repository.
+
+git svn: provides a Git interface to Subversion repositories.
+
+git worktree: allows you to have multiple working trees for a single repository.
